@@ -14,7 +14,7 @@ The archive password is provided separately by the project owner. It is not stor
 ## SHA256
 
 ```text
-dcd0ee1700a3b6059988a314617f380e7073a45266faf3ccb2de485bb633eb9d  hr-manager-sys-code-v1.0.0.zip
+a7a78c47e4b8552a2a462392ff50f12593378c58bb71165a13cbb5cf7bd952b5  hr-manager-sys-code-v1.0.0.zip
 5a9540454d422a3318b1e805f53c7feae8b572a761516c596a7e86cb0b414ba9  hr-manager-sys-spec-v1.0.0.zip
 ```
 
